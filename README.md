@@ -2,7 +2,7 @@
 <h3 align="center">Data Analytics | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spiceworks.com%2Ftech%2Fdata-management%2Farticles%2Fwhat-is-data-analytics%2F&psig=AOvVaw0m18VxvWAxwrqiMFUWZokX&ust=1718957219865000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKClq-3c6YYDFQAAAAAdAAAAABAE" />
+ <img src="https://github.com/ParasKataria27/ParasKataria27/blob/main/data.jpg" />
 </h1>
 
 
